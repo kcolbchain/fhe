@@ -162,6 +162,9 @@ Application-specific encrypted computation demos:
 go test ./...
 ```
 
+For the current pure-Go and example verification status, see
+[`docs/example-verification.md`](docs/example-verification.md).
+
 ## Papers
 
 - [Lux TFHE](https://github.com/luxfi/papers/blob/main/lux-tfhe.pdf) -- TFHE construction and parameter analysis
